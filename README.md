@@ -1,5 +1,5 @@
 # projet_ecommerce
 
-projet collaboratif
+## projet collaboratif
  
  A faire ajouter un fichier `gitignore`
